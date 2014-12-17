@@ -3,7 +3,7 @@ require 'rubygems'
 require 'mechanize'
 require 'date'
 
-url = 'http://www.ryde.nsw.gov.au/Development/Development+Applications/DAs+on+Exhibition/Received+Development+Applications'
+url = 'http://www.ryde.nsw.gov.au/Development/Development+Applications/DAs+and+VPAs+on+Exhibition/Received+Development+Applications'
 agent = Mechanize.new
 
 page = agent.get(url)
