@@ -1,1 +1,1 @@
-Gets development applications for the [City of Ryde](http://www.ryde.nsw.gov.au/development/pn.htm).
+# Replaced by [another scraper](https://morph.io/planningalerts-scrapers/city_of_ryde-1)
